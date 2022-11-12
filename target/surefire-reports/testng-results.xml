@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Reg Suite" duration-ms="71" started-at="2022-09-28T21:38:22 IST" finished-at="2022-09-28T21:38:22 IST">
+    <groups>
+    </groups>
+    <test name="Reg Test1" duration-ms="71" started-at="2022-09-28T21:38:22 IST" finished-at="2022-09-28T21:38:22 IST">
+      <class name="org.hcl.testscripts.UserLogin">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:org.hcl.testscripts.UserLogin@6e6c3152]" name="initialize" is-config="true" duration-ms="16" started-at="2022-09-28T21:38:22 IST" finished-at="2022-09-28T21:38:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="verifyuserLogin()[pri:0, instance:org.hcl.testscripts.UserLogin@6e6c3152]" name="verifyuserLogin" duration-ms="3" started-at="2022-09-28T21:38:22 IST" finished-at="2022-09-28T21:38:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyuserLogin -->
+        <test-method status="PASS" signature="tearnDown()[pri:0, instance:org.hcl.testscripts.UserLogin@6e6c3152]" name="tearnDown" is-config="true" duration-ms="2" started-at="2022-09-28T21:38:22 IST" finished-at="2022-09-28T21:38:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnDown -->
+      </class> <!-- org.hcl.testscripts.UserLogin -->
+    </test> <!-- Reg Test1 -->
+  </suite> <!-- Reg Suite -->
+</testng-results>

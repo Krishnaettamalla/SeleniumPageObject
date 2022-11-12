@@ -1,0 +1,41 @@
+2022-09-29 15:31:26 INFO  BasePage:46 - log4j file loaded
+2022-09-29 15:31:26 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 15:31:41 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 15:31:41 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 15:34:41 INFO  BasePage:46 - log4j file loaded
+2022-09-29 15:34:41 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 15:34:47 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 15:34:47 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 15:49:16 INFO  BasePage:46 - log4j file loaded
+2022-09-29 15:49:16 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 15:49:19 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 15:49:19 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 15:54:34 INFO  BasePage:46 - log4j file loaded
+2022-09-29 15:54:34 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 15:54:37 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 15:54:37 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 15:56:54 INFO  BasePage:46 - log4j file loaded
+2022-09-29 15:56:54 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 15:56:57 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 15:56:57 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 18:27:26 INFO  BasePage:46 - log4j file loaded
+2022-09-29 18:27:26 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 18:27:37 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 18:27:37 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 18:27:44 INFO  ReusableMathods:34 - Data entered in :By.id: user_name
+2022-09-29 18:27:44 INFO  ReusableMathods:34 - Data entered in :By.id: user_pass
+2022-09-29 18:27:45 INFO  ReusableMathods:46 - Clicked element :By.id: login_button
+2022-09-29 18:28:35 INFO  BasePage:46 - log4j file loaded
+2022-09-29 18:28:35 INFO  BasePage:56 - Browser is ::Chrome
+2022-09-29 18:28:43 INFO  BasePage:61 - Chrome Browser invoked
+2022-09-29 18:28:43 INFO  BasePage:63 - Chrome Browser maximized
+2022-09-29 18:28:59 INFO  ReusableMathods:34 - Data entered in :By.id: user_name
+2022-09-29 18:28:59 INFO  ReusableMathods:34 - Data entered in :By.id: user_pass
+2022-09-29 18:29:03 INFO  ReusableMathods:46 - Clicked element :By.id: login_button
+2022-10-23 21:27:00 INFO  BasePage:46 - log4j file loaded
+2022-10-23 21:27:00 INFO  BasePage:56 - Browser is ::Chrome
+2022-10-23 21:27:12 INFO  BasePage:61 - Chrome Browser invoked
+2022-10-23 21:27:12 INFO  BasePage:63 - Chrome Browser maximized
+2022-10-23 21:27:17 INFO  ReusableMathods:38 - Data entered in :By.id: user_name
+2022-10-23 21:27:17 INFO  ReusableMathods:38 - Data entered in :By.id: user_pass
+2022-10-23 21:27:20 INFO  ReusableMathods:50 - Clicked element :By.id: login_button

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Reg Suite">
+<test name="Reg Test1">
+<classes>
+<class name="org.hcl.testscripts.UserLogin"/>	
+</classes>
+
+</test>
+
+</suite>
